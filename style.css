@@ -9,14 +9,22 @@ body {
   display: flex;
   flex-direction: column;
   font-family: system-ui, sans-serif;
-  background: #f4f4f4;
-  color: #111;
+  background: #ff0000;
+  color: #000000;
 }
 
 h1 {
   text-align: center;
   padding: 2rem 1rem;
   font-size: 3rem;
+  color: #ffffff;
+}
+
+h2 {
+  text-align: center;
+  padding: 2rem 2rem;
+  font-size: 1.5rem;
+  color: #ffffff;
 }
 
 main {

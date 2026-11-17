@@ -37,7 +37,7 @@ main {
 
 img {
   display: block;
-  max-width: 80vw;
-  max-height: 70vh;
+  max-width: 60vw;
+  max-height: 40vh;
   object-fit: contain;
 }
